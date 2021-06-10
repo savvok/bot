@@ -16,7 +16,8 @@
 
 **Структура проекта**
 
-![Структура_DD](https://gitlab.com/m_mrkl/findvuz_bot/raw/master/structure01.jpeg)
+![СтруктураDD](https://gitlab.com/m_mrkl/findvuz_bot/raw/master/structure01.jpeg)
+![Структура_DD](https://gitlab.com/m_mrkl/hack_abiturient/-/blob/master/structure01.jpeg)
 
 data - важные данные
 
