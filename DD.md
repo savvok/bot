@@ -16,7 +16,7 @@
 
 **Структура проекта**
 
-
+![Структура_DD](https://gitlab.com/m_mrkl/findvuz_bot/raw/master/structure01.jpeg)
 
 data - важные данные
 
