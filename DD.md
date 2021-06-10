@@ -18,13 +18,13 @@
 
 ![СтруктураDD](https://gitlab.com/m_mrkl/hack_abiturient/raw/master/structure01.jpeg)
 
-data - важные данные
+**data** - важные данные
 
-filters - фильтры
+**filters** - фильтры
 
-handlers - хендлеры (операторы)
+**handlers** - хендлеры (операторы)
 
-keyboards - клавиатуры (кнопки)
+**keyboards** - клавиатуры (кнопки)
 
 **Этапы разработки**
 
