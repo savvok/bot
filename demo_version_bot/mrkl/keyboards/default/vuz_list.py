@@ -1,5 +1,5 @@
 from aiogram.types import ReplyKeyboardMarkup, KeyboardButton
-# vuzlist = list(range(1,32))
+
 vuzes = ReplyKeyboardMarkup(
     keyboard=[
         [
