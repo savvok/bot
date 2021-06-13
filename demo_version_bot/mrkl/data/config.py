@@ -6,7 +6,7 @@ load_dotenv()
 
 BOT_TOKEN = str(os.getenv("BOT_TOKEN"))
 
-# Ниже вставьте результат _ шага
+# Ниже вставьте id из 2 шага
 
 admins = [
     123456789
