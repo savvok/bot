@@ -10,15 +10,16 @@ https://gitlab.com/m_mrkl/hack_abiturient/-/tree/master/demo_version_bot/mrkl
 Написать боту https://t.me/ShowJsonBot и взять значение id из его ответа
 
 **Шаг третий**
-Вставить значение id в /data/config.py после "admins = ["
+Вставить значение id в mrkl/data/config.py после "admins = ["
 
 **Шаг четвёртый**
-Создать бота через https://t.me/BotFather и получить токен. Либо использовать имеющийся и вставить его в .env после "BOT_TOKEN="
+Создать бота через https://t.me/BotFather и получить токен. Либо использовать имеющийся и вставить его в mrkl/.env после "BOT_TOKEN="
 
 **Шаг пятый**
-
+Зайти в переписку с ботом, токен которого был использован, и написать ему "/start"
 
 **Шаг шестой**
+Запустить файл mrkl/app.py
 
 **Шаг седьмой**
 
