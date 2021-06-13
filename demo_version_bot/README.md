@@ -22,5 +22,7 @@ https://gitlab.com/m_mrkl/hack_abiturient/-/tree/master/demo_version_bot/mrkl
 Запустить файл mrkl/app.py
 
 **Шаг седьмой**
+Перезапустить приложение Telegram
 
 **Шаг восьмой**
+Наслаждаться! 
